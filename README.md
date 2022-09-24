@@ -83,7 +83,7 @@
 
 
   <a href="https://github.com/Durgashankar001?tab=repositories">
-    <img width="400" height="auto"  alt="Durgashankar's github stats" 
+    <img width="400" height="auto"  alt="Durgashankar Pal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Durgashankar001&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
