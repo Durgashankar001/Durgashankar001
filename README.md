@@ -94,8 +94,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgashankar001&hide=smalltalk&theme=algolia&layout=compact" alt="Durgashankar001" />
 </p>
 
-<p display="flex" align="center">
+<!-- <p display="flex" align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Durgashankar001&theme=gruvbox&hide_border=true&area=true" height="200px" width="70%"/>
-<p>
+<p> -->
 
  
