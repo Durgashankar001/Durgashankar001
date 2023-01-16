@@ -81,14 +81,14 @@
 ---
 
 
-<p display="flex" align="center">
-<img alt="Durgashankar Pal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgashankar001&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<p display="flex" align="center" height="300px" >
+<img alt="Durgashankar Pal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api?username=Durgashankar001&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=algolia" width="400" height="100%" />
 
 
 
   <a href="https://github.com/Durgashankar001?tab=repositories">
     <img width="400" height="auto"  alt="Durgashankar Pal's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Durgashankar001&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgashankar001&layout=compact&hide=Shell&border_radius=0&theme=algolia" />
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgashankar001&hide=smalltalk&theme=algolia&layout=compact" alt="Durgashankar001" />
