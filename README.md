@@ -80,7 +80,7 @@
 
 ---
 
-
+<!--
 <p display="flex" align="center" height="300px" >
 <img alt="Durgashankar Pal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api?username=Durgashankar001&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=algolia" width="400" height="100%" />
 
@@ -98,4 +98,21 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Durgashankar001&theme=gruvbox&hide_border=true&area=true" height="200px" width="70%"/>
 <p> -->
 
+<h3 align="center">GitHub Stats:</h3>
+<!--
+<p align="center"><img align="center"  height="200px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgashankar001&theme=nord&hide_border=false" alt="Durgashankar001" />
+</p>
+-->
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgashankar001&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Durgashankar001&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Durgashankar001&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Durgashankar001&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Durgashankar001&theme=nord_dark&utcOffset=8">
+	
+</p>
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
  
